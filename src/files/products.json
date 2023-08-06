@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"title": "Alfombra sparco",
+		"description": "alfombra universal cuatro piezas",
+		"price": 10000
+	},
+	{
+		"id": 2,
+		"title": "Kit faro auxiliar",
+		"description": "universal con led",
+		"price": 30000
+	}
+]
